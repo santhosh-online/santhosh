@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/samweb/static/js/main.a6305a6e.chunk.js",
+    "main.js.map": "/samweb/static/js/main.a6305a6e.chunk.js.map",
+    "runtime-main.js": "/samweb/static/js/runtime-main.609a993e.js",
+    "runtime-main.js.map": "/samweb/static/js/runtime-main.609a993e.js.map",
+    "static/js/2.71e98813.chunk.js": "/samweb/static/js/2.71e98813.chunk.js",
+    "static/js/2.71e98813.chunk.js.map": "/samweb/static/js/2.71e98813.chunk.js.map",
+    "index.html": "/samweb/index.html",
+    "precache-manifest.98774101036a28315d7a96789770660a.js": "/samweb/precache-manifest.98774101036a28315d7a96789770660a.js",
+    "service-worker.js": "/samweb/service-worker.js",
+    "static/js/2.71e98813.chunk.js.LICENSE.txt": "/samweb/static/js/2.71e98813.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.609a993e.js",
+    "static/js/2.71e98813.chunk.js",
+    "static/js/main.a6305a6e.chunk.js"
+  ]
+}

@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/samweb/static/js/main.e530de4d.chunk.js",
-    "main.js.map": "/samweb/static/js/main.e530de4d.chunk.js.map",
+    "main.css": "/samweb/static/css/main.c1b1cf1b.chunk.css",
+    "main.js": "/samweb/static/js/main.b9f93d8c.chunk.js",
+    "main.js.map": "/samweb/static/js/main.b9f93d8c.chunk.js.map",
     "runtime-main.js": "/samweb/static/js/runtime-main.609a993e.js",
     "runtime-main.js.map": "/samweb/static/js/runtime-main.609a993e.js.map",
-    "static/js/2.71e98813.chunk.js": "/samweb/static/js/2.71e98813.chunk.js",
-    "static/js/2.71e98813.chunk.js.map": "/samweb/static/js/2.71e98813.chunk.js.map",
+    "static/js/2.213bfee7.chunk.js": "/samweb/static/js/2.213bfee7.chunk.js",
+    "static/js/2.213bfee7.chunk.js.map": "/samweb/static/js/2.213bfee7.chunk.js.map",
     "index.html": "/samweb/index.html",
-    "precache-manifest.2275e957946377b43309f8724e61e7cc.js": "/samweb/precache-manifest.2275e957946377b43309f8724e61e7cc.js",
+    "precache-manifest.b8c74e20fc149acf0e63497e6e02d3f9.js": "/samweb/precache-manifest.b8c74e20fc149acf0e63497e6e02d3f9.js",
     "service-worker.js": "/samweb/service-worker.js",
-    "static/js/2.71e98813.chunk.js.LICENSE.txt": "/samweb/static/js/2.71e98813.chunk.js.LICENSE.txt"
+    "static/css/main.c1b1cf1b.chunk.css.map": "/samweb/static/css/main.c1b1cf1b.chunk.css.map",
+    "static/js/2.213bfee7.chunk.js.LICENSE.txt": "/samweb/static/js/2.213bfee7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.609a993e.js",
-    "static/js/2.71e98813.chunk.js",
-    "static/js/main.e530de4d.chunk.js"
+    "static/js/2.213bfee7.chunk.js",
+    "static/css/main.c1b1cf1b.chunk.css",
+    "static/js/main.b9f93d8c.chunk.js"
   ]
 }

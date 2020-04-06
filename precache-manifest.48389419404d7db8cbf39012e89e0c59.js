@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05e7c32203dd4fdd2d84f5d161eaee86",
+    "revision": "b0b4baf1c1e68bc1b9146cd4afa39e51",
     "url": "/samweb/index.html"
   },
   {
-    "revision": "b50b94b800669f7480ae",
-    "url": "/samweb/static/css/main.c1b1cf1b.chunk.css"
+    "revision": "6489a3bb8d8371c3807a",
+    "url": "/samweb/static/css/main.90dbe331.chunk.css"
   },
   {
     "revision": "46e4501644722743a7d5",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samweb/static/js/2.213bfee7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b50b94b800669f7480ae",
-    "url": "/samweb/static/js/main.b9f93d8c.chunk.js"
+    "revision": "6489a3bb8d8371c3807a",
+    "url": "/samweb/static/js/main.fa276515.chunk.js"
   },
   {
     "revision": "8824933b16d0865fecb9",
     "url": "/samweb/static/js/runtime-main.609a993e.js"
+  },
+  {
+    "revision": "be2c78710ceffa7b3ff114dc2845162e",
+    "url": "/samweb/static/media/logo.be2c7871.png"
   }
 ]);

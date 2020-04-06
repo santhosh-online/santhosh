@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2f834b157cd9c1cbe6c47f1d7a1cc95",
+    "revision": "3ac422390d9b9dfbc1111d0f49a9d2fa",
     "url": "/samweb/index.html"
   },
   {
-    "revision": "1f144e333a1c68779c03",
-    "url": "/samweb/static/css/main.90dbe331.chunk.css"
+    "revision": "1c77bcad55c4fa5476bd",
+    "url": "/samweb/static/css/main.82f51e34.chunk.css"
   },
   {
     "revision": "46e4501644722743a7d5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samweb/static/js/2.213bfee7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f144e333a1c68779c03",
-    "url": "/samweb/static/js/main.7c9b2155.chunk.js"
+    "revision": "1c77bcad55c4fa5476bd",
+    "url": "/samweb/static/js/main.042c850c.chunk.js"
   },
   {
     "revision": "8824933b16d0865fecb9",

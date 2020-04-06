@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/samweb/static/css/main.90dbe331.chunk.css",
-    "main.js": "/samweb/static/js/main.7c9b2155.chunk.js",
-    "main.js.map": "/samweb/static/js/main.7c9b2155.chunk.js.map",
+    "main.css": "/samweb/static/css/main.82f51e34.chunk.css",
+    "main.js": "/samweb/static/js/main.042c850c.chunk.js",
+    "main.js.map": "/samweb/static/js/main.042c850c.chunk.js.map",
     "runtime-main.js": "/samweb/static/js/runtime-main.609a993e.js",
     "runtime-main.js.map": "/samweb/static/js/runtime-main.609a993e.js.map",
     "static/js/2.213bfee7.chunk.js": "/samweb/static/js/2.213bfee7.chunk.js",
     "static/js/2.213bfee7.chunk.js.map": "/samweb/static/js/2.213bfee7.chunk.js.map",
     "index.html": "/samweb/index.html",
-    "precache-manifest.fb85de49711f48ff31e1851455d57bf7.js": "/samweb/precache-manifest.fb85de49711f48ff31e1851455d57bf7.js",
+    "precache-manifest.69814eb4159d3c071e987f341acda035.js": "/samweb/precache-manifest.69814eb4159d3c071e987f341acda035.js",
     "service-worker.js": "/samweb/service-worker.js",
-    "static/css/main.90dbe331.chunk.css.map": "/samweb/static/css/main.90dbe331.chunk.css.map",
+    "static/css/main.82f51e34.chunk.css.map": "/samweb/static/css/main.82f51e34.chunk.css.map",
     "static/js/2.213bfee7.chunk.js.LICENSE.txt": "/samweb/static/js/2.213bfee7.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/samweb/static/media/logo.be2c7871.png"
   },
   "entrypoints": [
     "static/js/runtime-main.609a993e.js",
     "static/js/2.213bfee7.chunk.js",
-    "static/css/main.90dbe331.chunk.css",
-    "static/js/main.7c9b2155.chunk.js"
+    "static/css/main.82f51e34.chunk.css",
+    "static/js/main.042c850c.chunk.js"
   ]
 }

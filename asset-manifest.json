@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/samweb/static/css/main.31da0dc2.chunk.css",
-    "main.js": "/samweb/static/js/main.27769580.chunk.js",
-    "main.js.map": "/samweb/static/js/main.27769580.chunk.js.map",
-    "runtime-main.js": "/samweb/static/js/runtime-main.609a993e.js",
-    "runtime-main.js.map": "/samweb/static/js/runtime-main.609a993e.js.map",
-    "static/js/2.367245f9.chunk.js": "/samweb/static/js/2.367245f9.chunk.js",
-    "static/js/2.367245f9.chunk.js.map": "/samweb/static/js/2.367245f9.chunk.js.map",
-    "index.html": "/samweb/index.html",
-    "precache-manifest.bf4071047374737af7caa53c1a6b497c.js": "/samweb/precache-manifest.bf4071047374737af7caa53c1a6b497c.js",
-    "service-worker.js": "/samweb/service-worker.js",
-    "static/css/main.31da0dc2.chunk.css.map": "/samweb/static/css/main.31da0dc2.chunk.css.map",
-    "static/js/2.367245f9.chunk.js.LICENSE.txt": "/samweb/static/js/2.367245f9.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/samweb/static/media/logo.be2c7871.png"
+    "main.css": "/santhosh/static/css/main.31da0dc2.chunk.css",
+    "main.js": "/santhosh/static/js/main.bdb4532d.chunk.js",
+    "main.js.map": "/santhosh/static/js/main.bdb4532d.chunk.js.map",
+    "runtime-main.js": "/santhosh/static/js/runtime-main.9238ca49.js",
+    "runtime-main.js.map": "/santhosh/static/js/runtime-main.9238ca49.js.map",
+    "static/js/2.367245f9.chunk.js": "/santhosh/static/js/2.367245f9.chunk.js",
+    "static/js/2.367245f9.chunk.js.map": "/santhosh/static/js/2.367245f9.chunk.js.map",
+    "index.html": "/santhosh/index.html",
+    "precache-manifest.e06d92f08f253938b890ebf3a82e2180.js": "/santhosh/precache-manifest.e06d92f08f253938b890ebf3a82e2180.js",
+    "service-worker.js": "/santhosh/service-worker.js",
+    "static/css/main.31da0dc2.chunk.css.map": "/santhosh/static/css/main.31da0dc2.chunk.css.map",
+    "static/js/2.367245f9.chunk.js.LICENSE.txt": "/santhosh/static/js/2.367245f9.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/santhosh/static/media/logo.be2c7871.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.609a993e.js",
+    "static/js/runtime-main.9238ca49.js",
     "static/js/2.367245f9.chunk.js",
     "static/css/main.31da0dc2.chunk.css",
-    "static/js/main.27769580.chunk.js"
+    "static/js/main.bdb4532d.chunk.js"
   ]
 }

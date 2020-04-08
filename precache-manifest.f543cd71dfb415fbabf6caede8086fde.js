@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70d3db0d5b943a027d3ec53730173d4e",
+    "revision": "32ecbddd80356f31bbd8192f6f370ff0",
     "url": "/santhosh/index.html"
   },
   {
-    "revision": "6deb408ac39cc7e4de48",
-    "url": "/santhosh/static/css/main.31da0dc2.chunk.css"
+    "revision": "60af2a1b0a6539ee2162",
+    "url": "/santhosh/static/css/main.5563b2a6.chunk.css"
   },
   {
     "revision": "1c8ced8c3322a60bb573",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santhosh/static/js/2.367245f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6deb408ac39cc7e4de48",
-    "url": "/santhosh/static/js/main.bdb4532d.chunk.js"
+    "revision": "60af2a1b0a6539ee2162",
+    "url": "/santhosh/static/js/main.2dd30fcd.chunk.js"
   },
   {
     "revision": "fd0aebed720dfa396966",

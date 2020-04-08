@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/santhosh/static/css/main.31da0dc2.chunk.css",
-    "main.js": "/santhosh/static/js/main.bdb4532d.chunk.js",
-    "main.js.map": "/santhosh/static/js/main.bdb4532d.chunk.js.map",
+    "main.css": "/santhosh/static/css/main.5563b2a6.chunk.css",
+    "main.js": "/santhosh/static/js/main.2dd30fcd.chunk.js",
+    "main.js.map": "/santhosh/static/js/main.2dd30fcd.chunk.js.map",
     "runtime-main.js": "/santhosh/static/js/runtime-main.9238ca49.js",
     "runtime-main.js.map": "/santhosh/static/js/runtime-main.9238ca49.js.map",
     "static/js/2.367245f9.chunk.js": "/santhosh/static/js/2.367245f9.chunk.js",
     "static/js/2.367245f9.chunk.js.map": "/santhosh/static/js/2.367245f9.chunk.js.map",
     "index.html": "/santhosh/index.html",
-    "precache-manifest.e06d92f08f253938b890ebf3a82e2180.js": "/santhosh/precache-manifest.e06d92f08f253938b890ebf3a82e2180.js",
+    "precache-manifest.f543cd71dfb415fbabf6caede8086fde.js": "/santhosh/precache-manifest.f543cd71dfb415fbabf6caede8086fde.js",
     "service-worker.js": "/santhosh/service-worker.js",
-    "static/css/main.31da0dc2.chunk.css.map": "/santhosh/static/css/main.31da0dc2.chunk.css.map",
+    "static/css/main.5563b2a6.chunk.css.map": "/santhosh/static/css/main.5563b2a6.chunk.css.map",
     "static/js/2.367245f9.chunk.js.LICENSE.txt": "/santhosh/static/js/2.367245f9.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/santhosh/static/media/logo.be2c7871.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9238ca49.js",
     "static/js/2.367245f9.chunk.js",
-    "static/css/main.31da0dc2.chunk.css",
-    "static/js/main.bdb4532d.chunk.js"
+    "static/css/main.5563b2a6.chunk.css",
+    "static/js/main.2dd30fcd.chunk.js"
   ]
 }

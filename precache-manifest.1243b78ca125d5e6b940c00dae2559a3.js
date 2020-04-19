@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32ecbddd80356f31bbd8192f6f370ff0",
+    "revision": "2171e623ef21634ec9b187bc42f56d6a",
     "url": "/santhosh/index.html"
   },
   {
-    "revision": "60af2a1b0a6539ee2162",
-    "url": "/santhosh/static/css/main.5563b2a6.chunk.css"
+    "revision": "6180518e24c94423dfb1",
+    "url": "/santhosh/static/css/main.dd0f1a54.chunk.css"
   },
   {
-    "revision": "1c8ced8c3322a60bb573",
-    "url": "/santhosh/static/js/2.367245f9.chunk.js"
+    "revision": "d4eb6bb945132ad3d425",
+    "url": "/santhosh/static/js/2.fab3350b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/santhosh/static/js/2.367245f9.chunk.js.LICENSE.txt"
+    "url": "/santhosh/static/js/2.fab3350b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60af2a1b0a6539ee2162",
-    "url": "/santhosh/static/js/main.2dd30fcd.chunk.js"
+    "revision": "6180518e24c94423dfb1",
+    "url": "/santhosh/static/js/main.560d6fd0.chunk.js"
   },
   {
     "revision": "fd0aebed720dfa396966",
